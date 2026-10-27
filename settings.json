@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "NIKKI01",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "NIKKI01",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "Brothers_SmPx.aternos.me",
+    "port": 44045,
     "version": "",
     "try-creative": false
   },
@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 12000,
       "messages": [
         "I'm a regular player",
         "I like to play Minecraft!"
